@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.whitelabel.apps",
+      "sha256_cert_fingerprints":
+      ["08:56:CB:2E:78:0A:7B:05:21:6C:E5:93:35:63:87:45:E4:E2:AF:D2:4D:D0:FD:AD:BA:FB:0E:73:01:F1:6A:13"]
+    }
+  }]
