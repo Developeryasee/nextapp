@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+             "appID": "LYQHM3C732.com.whitelabel.apps", 
+             "paths": [ "*" ]
+           }
+       ]
+   }
+}
